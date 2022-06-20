@@ -14,9 +14,6 @@
 
 <h2>Development details</h2>
 <p>Site produced in Wordpress and with plugins already installed: Elementor, Yost SEO, WooCommerce and other customizations. And with MySql Database already configured.</p>
-<p style="text-align: right">&#8212; Matt Mullenweg</p>
-
-<p style="text-align: center">Semantic Personal Publishing Platform</p>
 
 <h2>First Things First</h2>
 <p>Welcome. WordPress is a very special project to me. Every developer and contributor adds something unique to the mix, and together we create something beautiful that I am proud to be a part of. Thousands of hours have gone into WordPress, and we are dedicated to making it better every day. Thank you for making it part of your world.</p>

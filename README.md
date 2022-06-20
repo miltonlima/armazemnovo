@@ -9,6 +9,13 @@
 <h1 id="logo">
 	<a href="https://wordpress.org/"><img alt="WordPress" src="wp-admin/images/wordpress-logo.png" /></a>
 </h1>
+
+<p style="text-align: center">About this project</p>
+
+<h2>Development details</h2>
+<p>Site produced in Wordpress and with plugins already installed: Elementor, Yost SEO, WooCommerce and other customizations. And with MySql Database already configured.</p>
+<p style="text-align: right">&#8212; Matt Mullenweg</p>
+
 <p style="text-align: center">Semantic Personal Publishing Platform</p>
 
 <h2>First Things First</h2>

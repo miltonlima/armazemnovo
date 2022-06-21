@@ -7,17 +7,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
 "Language: pt_BR\n"
 "Project-Id-Version: Themes - Envo eCommerce\n"
 
 #. Description of the theme
-#, gp-priority: high
 msgid "Envo eCommerce is a fast, clean and modern-looking responsive free WooCommerce theme for WordPress. This theme supports popular page builders like Elementor, KingComposer, Beaver Builder, SiteOrigin, Thrive Architect, Divi, Brizy, Visual Composer, etc. The theme is responsive, super fast, SEO friendly, WPML and RTL ready. Documentation: https://envothemes.com/docs/docs/envo-ecommerce/ Theme demo ready to import: https://envothemes.com/envo-ecommerce/"
 msgstr "O Envo eCommerce é um tema WooCommerce gratuito, rápido, limpo e moderno para o WordPress. Este tema suporta construtores de páginas populares como Elementor, KingComposer, Beaver Builder, SiteOrigin, Prosperar Arquiteto, Divi, Brizy, Visual Composer, etc. O tema é responsivo, super rápido, SEO amigável, pronto para WPML e RTL. Documentação: https://envothemes.com/docs/docs/envo-ecommerce/ Demonstração do tema pronta para importação: https://envothemes.com/envo-ecommerce/"
 
 #. Theme Name of the theme
-#, gp-priority: high
 msgid "Envo eCommerce"
 msgstr "Envo eCommerce"
 
@@ -332,16 +330,13 @@ msgid "Main Menu"
 msgstr "Menu principal"
 
 #. Author URI of the theme
-#, gp-priority: low
 msgid "https://envothemes.com/"
 msgstr "https://envothemes.com/"
 
 #. Author of the theme
-#, gp-priority: low
 msgid "EnvoThemes"
 msgstr "EnvoThemes"
 
 #. Theme URI of the theme
-#, gp-priority: low
 msgid "https://envothemes.com/free-envo-ecommerce/"
 msgstr "https://envothemes.com/free-envo-ecommerce/"
